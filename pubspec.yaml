@@ -39,12 +39,29 @@ dependencies:
   get_it:
   injectable:
 
+
+  #material search 
+  material_floating_search_bar: ^0.3.3
+
+  extended_navbar_scaffold: any
+  
+  #icons 
+  humanitarian_icons: ^0.1.0
+
+  #bottom nav
+  curved_navigation_bar: ^0.1.2 
+
+  bottom_navy_bar: ^3.0.0
+
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
   injectable_generator:
   build_runner: 
   auto_route_generator:
+
+  
   
 
  
